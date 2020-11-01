@@ -5,6 +5,7 @@ public class TC_Milovan {
 
         System.out.println("New try to merge something");
         System.out.println("Hello everyone");
+        System.out.println("One more line");
 
     }
 }
