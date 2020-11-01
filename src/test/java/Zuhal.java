@@ -4,6 +4,8 @@ public class Zuhal {
 
         System.out.println("Zuhal is learning fork");
 
+
+
     }
 
 }
